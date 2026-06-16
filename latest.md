@@ -1,47 +1,48 @@
 # Segunda Mente - Status Publico
 
 - fonte_principal: `https://marssjd.github.io/segunda-mente-status/latest.json`
-- gerado_em: `2026-06-15T23:31:57-03:00`
+- gerado_em: `2026-06-16T00:08:07-03:00`
 - projeto: `Segunda Mente`
 - maquina: `marpop`
 - repo: `segunda-mente`
 - branch: `main`
-- head: `b847ab1`
+- head: `01a1610`
 - estado_repo: `limpo`
 - arquivos_alterados: `0`
 
 ## Resumo
 
-Canal publico de status operacional sanitizado. latest.json e a fonte publica principal; latest.html e latest.md sao artefatos auxiliares.
+Status publico sanitizado da operacao local do marpop; fonte principal para retomada rapida sem dados privados.
 
 ## Objetivo Atual
 
-Manter um link publico unico e sanitizado para o estado operacional recente.
+Avancar operacao local para autonomia supervisionada v1.
 
 ## Ultima Acao
 
-- acao: Geracao local dos artefatos publicos sanitizados.
-- resultado: Resumo publico preparado; captura local: ok; repo principal: limpo.
+- acao: Repo principal publicado com autonomia supervisionada v1 e auditoria pre-push.
+- resultado: Push do repo principal concluido; ciclo supervisionado disponivel; backend local de modelos ainda pendente de diagnostico read-only; captura local saudavel conforme ultimo ciclo.
 
 ## Relatorios Recentes Seguros
 
+- `pre_push_supervised_autonomy_v1_20260616_000344.md`
+- `marpop_supervised_autonomy_v1_20260615_235244.md`
+- `supervised_cycle_20260615_235701.md`
+- `supervised_cycle_20260615_235351.md`
+- `supervised_cycle_20260615_235214.md`
+- `public_status_channel_live_validation_20260615_234133.md`
 - `public_status_channel_consolidation_20260615_232355.md`
 - `public_status_prepublish_audit_20260615_224946.md`
-- `workspace_untracked_containment_20260615_085448.md`
-- `marpop_operational_hardening_v1_20260614_091603.md`
-- `model_router_practical_validation_20260614_081259.md`
-- `model_routing_extra_benchmark_consolidation_20260614_075109.md`
-- `operational_console_v2_20260613_224917.md`
-- `ollama_codex_consolidation_20260613_221826.md`
-- `6 nome(s) omitido(s) por seguranca.`
 
 ## Pendencias
 
-- Sem pendencia publica critica no resumo sanitizado atual.
+- Diagnostico read-only do backend local de modelos.
+- Decidir publicacao/rotina do ciclo supervisionado.
+- Manter tarefas automaticas apenas apos aprovacao humana.
 
 ## Proximo Passo Recomendado
 
-- Manter operacao local supervisionada e atualizar latest.json quando houver mudanca relevante.
+- Rodar diagnostico read-only separado do backend local de modelos antes de depender de perguntas locais assistidas por modelo.
 
 ## URLs Publicas
 
