@@ -1,0 +1,7 @@
+Segunda Mente - Status Publico
+gerado_em: 2026-06-15T23:01:33-03:00
+fonte_principal: https://marssjd.github.io/segunda-mente-status/latest.json
+repo: segunda-mente main 22ee85c
+estado_repo: com alteracoes locais
+resumo: Canal publico de status operacional sanitizado. latest.json e a fonte publica principal; latest.html e latest.md sao artefatos auxiliares.
+proximo_passo: Conferir mudancas locais e publicar somente o canal publico sanitizado.
