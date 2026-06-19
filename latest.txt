@@ -1,7 +1,7 @@
 Segunda Mente - Status Publico
-gerado_em: 2026-06-16T00:08:07-03:00
+gerado_em: 2026-06-18T22:40:37-03:00
 fonte_principal: https://marssjd.github.io/segunda-mente-status/latest.json
-repo: segunda-mente main 01a1610
+repo: segunda-mente main a70ff4f
 estado_repo: limpo
-resumo: Status publico sanitizado da operacao local do marpop; fonte principal para retomada rapida sem dados privados.
-proximo_passo: Rodar diagnostico read-only separado do backend local de modelos antes de depender de perguntas locais assistidas por modelo.
+resumo: Canal publico de status operacional sanitizado. latest.json e a fonte publica principal; latest.html e latest.md sao artefatos auxiliares.
+proximo_passo: Manter operacao local supervisionada e atualizar latest.json quando houver mudanca relevante.

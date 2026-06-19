@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-16T00:08:07-03:00",
+  "generated_at": "2026-06-18T22:40:37-03:00",
   "project": "Segunda Mente",
   "machine": "marpop",
   "repo": "segunda-mente",
   "branch": "main",
-  "head": "01a1610",
+  "head": "a70ff4f",
   "working_tree_status": {
     "state": "limpo",
     "dirty": false,
@@ -12,10 +12,10 @@
     "ahead": 0,
     "behind": 0
   },
-  "summary": "Status publico sanitizado da operacao local do marpop; fonte principal para retomada rapida sem dados privados.",
-  "current_objective": "Avancar operacao local para autonomia supervisionada v1.",
-  "last_action": "Repo principal publicado com autonomia supervisionada v1 e auditoria pre-push.",
-  "last_result": "Push do repo principal concluido; ciclo supervisionado disponivel; backend local de modelos ainda pendente de diagnostico read-only; captura local saudavel conforme ultimo ciclo.",
+  "summary": "Canal publico de status operacional sanitizado. latest.json e a fonte publica principal; latest.html e latest.md sao artefatos auxiliares.",
+  "current_objective": "Manter um link publico unico e sanitizado para o estado operacional recente.",
+  "last_action": "Geracao local dos artefatos publicos sanitizados.",
+  "last_result": "Resumo publico preparado; captura local: ok; repo principal: limpo.",
   "safe_recent_reports": [
     "pre_push_supervised_autonomy_v1_20260616_000344.md",
     "marpop_supervised_autonomy_v1_20260615_235244.md",
@@ -24,14 +24,13 @@
     "supervised_cycle_20260615_235214.md",
     "public_status_channel_live_validation_20260615_234133.md",
     "public_status_channel_consolidation_20260615_232355.md",
-    "public_status_prepublish_audit_20260615_224946.md"
+    "public_status_prepublish_audit_20260615_224946.md",
+    "4 nome(s) omitido(s) por seguranca."
   ],
   "pending_items": [
-    "Diagnostico read-only do backend local de modelos.",
-    "Decidir publicacao/rotina do ciclo supervisionado.",
-    "Manter tarefas automaticas apenas apos aprovacao humana."
+    "Sem pendencia publica critica no resumo sanitizado atual."
   ],
-  "recommended_next_step": "Rodar diagnostico read-only separado do backend local de modelos antes de depender de perguntas locais assistidas por modelo.",
+  "recommended_next_step": "Manter operacao local supervisionada e atualizar latest.json quando houver mudanca relevante.",
   "public_urls": {
     "html": "https://marssjd.github.io/segunda-mente-status/",
     "json": "https://marssjd.github.io/segunda-mente-status/latest.json",

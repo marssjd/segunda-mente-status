@@ -1,27 +1,27 @@
 # Segunda Mente - Status Publico
 
 - fonte_principal: `https://marssjd.github.io/segunda-mente-status/latest.json`
-- gerado_em: `2026-06-16T00:08:07-03:00`
+- gerado_em: `2026-06-18T22:40:37-03:00`
 - projeto: `Segunda Mente`
 - maquina: `marpop`
 - repo: `segunda-mente`
 - branch: `main`
-- head: `01a1610`
+- head: `a70ff4f`
 - estado_repo: `limpo`
 - arquivos_alterados: `0`
 
 ## Resumo
 
-Status publico sanitizado da operacao local do marpop; fonte principal para retomada rapida sem dados privados.
+Canal publico de status operacional sanitizado. latest.json e a fonte publica principal; latest.html e latest.md sao artefatos auxiliares.
 
 ## Objetivo Atual
 
-Avancar operacao local para autonomia supervisionada v1.
+Manter um link publico unico e sanitizado para o estado operacional recente.
 
 ## Ultima Acao
 
-- acao: Repo principal publicado com autonomia supervisionada v1 e auditoria pre-push.
-- resultado: Push do repo principal concluido; ciclo supervisionado disponivel; backend local de modelos ainda pendente de diagnostico read-only; captura local saudavel conforme ultimo ciclo.
+- acao: Geracao local dos artefatos publicos sanitizados.
+- resultado: Resumo publico preparado; captura local: ok; repo principal: limpo.
 
 ## Relatorios Recentes Seguros
 
@@ -33,16 +33,15 @@ Avancar operacao local para autonomia supervisionada v1.
 - `public_status_channel_live_validation_20260615_234133.md`
 - `public_status_channel_consolidation_20260615_232355.md`
 - `public_status_prepublish_audit_20260615_224946.md`
+- `4 nome(s) omitido(s) por seguranca.`
 
 ## Pendencias
 
-- Diagnostico read-only do backend local de modelos.
-- Decidir publicacao/rotina do ciclo supervisionado.
-- Manter tarefas automaticas apenas apos aprovacao humana.
+- Sem pendencia publica critica no resumo sanitizado atual.
 
 ## Proximo Passo Recomendado
 
-- Rodar diagnostico read-only separado do backend local de modelos antes de depender de perguntas locais assistidas por modelo.
+- Manter operacao local supervisionada e atualizar latest.json quando houver mudanca relevante.
 
 ## URLs Publicas
 
