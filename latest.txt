@@ -1,7 +1,7 @@
 Segunda Mente - Status Publico
-gerado_em: 2026-06-18T23:07:02-03:00
+gerado_em: 2026-06-18T23:14:00-03:00
 fonte_principal: https://marssjd.github.io/segunda-mente-status/latest.json
-repo: segunda-mente main 1aeadb8
+repo: segunda-mente main 90d7441
 estado_repo: limpo
 resumo: Canal publico de status operacional sanitizado. latest.json e a fonte publica principal; latest.html e latest.md sao artefatos auxiliares.
-proximo_passo: Acompanhar próxima execução diária e avançar para resumo Ollama sanitizado após corrigir caminho dos modelos
+proximo_passo: Auditar auto-start do servico Ollama user-level e conflito com servico system-level em etapa supervisionada separada
