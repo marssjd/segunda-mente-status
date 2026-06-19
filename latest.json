@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-06-18T22:40:37-03:00",
+  "generated_at": "2026-06-18T23:07:02-03:00",
   "project": "Segunda Mente",
   "machine": "marpop",
   "repo": "segunda-mente",
   "branch": "main",
-  "head": "a70ff4f",
+  "head": "1aeadb8",
   "working_tree_status": {
     "state": "limpo",
     "dirty": false,
@@ -17,6 +17,7 @@
   "last_action": "Geracao local dos artefatos publicos sanitizados.",
   "last_result": "Resumo publico preparado; captura local: ok; repo principal: limpo.",
   "safe_recent_reports": [
+    "obsidian_metadata_note_generator_20260618_230118.md",
     "pre_push_supervised_autonomy_v1_20260616_000344.md",
     "marpop_supervised_autonomy_v1_20260615_235244.md",
     "supervised_cycle_20260615_235701.md",
@@ -24,13 +25,12 @@
     "supervised_cycle_20260615_235214.md",
     "public_status_channel_live_validation_20260615_234133.md",
     "public_status_channel_consolidation_20260615_232355.md",
-    "public_status_prepublish_audit_20260615_224946.md",
     "4 nome(s) omitido(s) por seguranca."
   ],
   "pending_items": [
     "Sem pendencia publica critica no resumo sanitizado atual."
   ],
-  "recommended_next_step": "Manter operacao local supervisionada e atualizar latest.json quando houver mudanca relevante.",
+  "recommended_next_step": "Acompanhar próxima execução diária e avançar para resumo Ollama sanitizado após corrigir caminho dos modelos",
   "public_urls": {
     "html": "https://marssjd.github.io/segunda-mente-status/",
     "json": "https://marssjd.github.io/segunda-mente-status/latest.json",

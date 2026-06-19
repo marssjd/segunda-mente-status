@@ -1,12 +1,12 @@
 # Segunda Mente - Status Publico
 
 - fonte_principal: `https://marssjd.github.io/segunda-mente-status/latest.json`
-- gerado_em: `2026-06-18T22:40:37-03:00`
+- gerado_em: `2026-06-18T23:07:02-03:00`
 - projeto: `Segunda Mente`
 - maquina: `marpop`
 - repo: `segunda-mente`
 - branch: `main`
-- head: `a70ff4f`
+- head: `1aeadb8`
 - estado_repo: `limpo`
 - arquivos_alterados: `0`
 
@@ -25,6 +25,7 @@ Manter um link publico unico e sanitizado para o estado operacional recente.
 
 ## Relatorios Recentes Seguros
 
+- `obsidian_metadata_note_generator_20260618_230118.md`
 - `pre_push_supervised_autonomy_v1_20260616_000344.md`
 - `marpop_supervised_autonomy_v1_20260615_235244.md`
 - `supervised_cycle_20260615_235701.md`
@@ -32,7 +33,6 @@ Manter um link publico unico e sanitizado para o estado operacional recente.
 - `supervised_cycle_20260615_235214.md`
 - `public_status_channel_live_validation_20260615_234133.md`
 - `public_status_channel_consolidation_20260615_232355.md`
-- `public_status_prepublish_audit_20260615_224946.md`
 - `4 nome(s) omitido(s) por seguranca.`
 
 ## Pendencias
@@ -41,7 +41,7 @@ Manter um link publico unico e sanitizado para o estado operacional recente.
 
 ## Proximo Passo Recomendado
 
-- Manter operacao local supervisionada e atualizar latest.json quando houver mudanca relevante.
+- Acompanhar próxima execução diária e avançar para resumo Ollama sanitizado após corrigir caminho dos modelos
 
 ## URLs Publicas
 
